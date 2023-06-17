@@ -11,6 +11,9 @@ To use the Mod4 program, follow these steps:
 3. Enter a list of integers
 4. The program will then display the sorted Stack in ascending order.
 
+## Example
+ ![example](https://github.com/kmacri73192/mod4/assets/136907221/575c12b6-1643-4cc1-9e27-41f6c345c604)
+
 ## Dependencies
 
 This program uses the following import:
